@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm L. F. Lozove, an Environmental Analyst at Itaipu Technological Park. 
+I'm L. F. Lozove, Environmental Analyst at Itaipu Technological Park. 
 I'm interested in environmental issues, and have a particular interest in hydrology, water resources, climate change and machine learning.
 
 
